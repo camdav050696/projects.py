@@ -1,8 +1,13 @@
 ### create a sorting hat quiz from memory of summer studies
 
-# display welcome msg from Black Hogwarts
+# display welcome msg from American Wizardry School
 
-print("Welcome to Black Hogwarts (Copyright)")
+main():
+
+def v 
+
+
+print("Welcome to the Newton-Seale School for Young Wizards!")
 
 
 # define variable for 'age'
